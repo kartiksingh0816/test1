@@ -1,4 +1,0 @@
-Random file 5
-Seed: 714390
-Created: 2026-06-01
-Token: FROST-LANTERN-05
