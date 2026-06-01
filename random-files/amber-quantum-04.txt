@@ -1,4 +1,0 @@
-Random file 4
-Seed: 275864
-Created: 2026-06-01
-Token: AMBER-QUANTUM-04
